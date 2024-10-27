@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Concert in the Park",
+      "date": "2024-11-01",
+      "location": "City Park",
+      "description": "Enjoy a live concert with local bands.",
+      "image": "https://th.bing.com/th/id/OIP.r7uS1qxUB1_l40F5Jc34CAHaFh?w=228&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+    },
+    {
+      "id": 2,
+      "name": "Art Exhibition",
+      "date": "2024-11-05",
+      "location": "Art Gallery",
+      "description": "Explore amazing art from local artists.",
+      "image": "https://th.bing.com/th/id/OIP.lhOU1hqAqTDSCS_wuXueIQHaDo?w=324&h=171&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+    },
+    {
+      "id": 3,
+      "name": "Food Festival",
+      "date": "2024-11-10",
+      "location": "Downtown",
+      "description": "Taste dishes from various food trucks.",
+      "image": "https://th.bing.com/th/id/OIP.FmvqaJGQbvHmSHSY5VNN0wAAAA?w=276&h=183&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+    }
+  ]
+  
